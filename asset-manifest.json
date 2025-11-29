@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProjectUjian/static/css/main.8f289c13.css",
+    "main.js": "/ProjectUjian/static/js/main.59b6074c.js",
+    "static/js/453.02ade1dd.chunk.js": "/ProjectUjian/static/js/453.02ade1dd.chunk.js",
+    "index.html": "/ProjectUjian/index.html",
+    "main.8f289c13.css.map": "/ProjectUjian/static/css/main.8f289c13.css.map",
+    "main.59b6074c.js.map": "/ProjectUjian/static/js/main.59b6074c.js.map",
+    "453.02ade1dd.chunk.js.map": "/ProjectUjian/static/js/453.02ade1dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f289c13.css",
+    "static/js/main.59b6074c.js"
+  ]
+}
